@@ -1,2 +1,2 @@
 # pdftotxt
-Text Extraction Using Python
+Text Extraction from PDF Using Python Libraries.
